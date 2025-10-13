@@ -14,4 +14,3 @@
 8. Repeat the process with the other datasets.
 9. Close the Data source settings window, click [Close & Apply] on the top left corner.
 <img width="323" height="227" alt="image" src="https://github.com/user-attachments/assets/66a837af-ea0f-47db-a8ac-6b97c0561a3e" />
-
