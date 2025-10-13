@@ -8,7 +8,9 @@ Key insights:
 * ~ 60% of SKUs are in surplus, ~30% in shortage, and only ~11.5% optimal
 * Turnover is low to morderate even for top sellers -> capital tied up in excess stock
 
-See the full report for detailed methodology and results.
+The original datasets can be downloaded [here](https://www.kaggle.com/datasets/bhanupratapbiswas/inventory-analysis-case-study)
+See the [full report](https://github.com/dukenguyen203-art/Liquor-Inventory-Analysis---A-Case-Study/blob/main/Liquor%20Inventory%20Analysis%20-%20A%20Case%20Study.ipynb) for detailed methodology and results.
+Download the [Power BI dashboard](https://github.com/dukenguyen203-art/Liquor-Inventory-Analysis---A-Case-Study/tree/main/Dashboard) for interactive exploration
 ## 2. Project Background
 The company operates multiple stores with a broad beverage portfolio bu struggles with stockouts, overstocking, and high inventory costs. This project analyzes historical transactions to improve inventory planning through:
 * ABC classificaltion of products and stores.
@@ -60,8 +62,8 @@ Why this matters:
 * Standardize data quality (dates as dates, unit/size normalization, vendor mapping, lead-time completion).
 * Rebalance inventory across stores before reordering to reduce excess and address shortages
 
-Refer to the EDA notebook for methodology, visuals, metric calculations, and insights analysis
-Use the Power BI dashboard for interactive exploration.
+Refer to the [EDA notebook](https://github.com/dukenguyen203-art/Liquor-Inventory-Analysis---A-Case-Study/blob/main/Liquor%20Inventory%20Analysis%20-%20A%20Case%20Study.ipynb) for methodology, visuals, metric calculations, and insights analysis
+Use the [Power BI dashboard](https://github.com/dukenguyen203-art/Liquor-Inventory-Analysis---A-Case-Study/tree/main/Dashboard) for interactive exploration.
 ## 7. Author
 Duke Nguyen
 * Github: @dukenguyen203-art
