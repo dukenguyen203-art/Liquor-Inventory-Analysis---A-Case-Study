@@ -9,7 +9,9 @@ Key insights:
 * Turnover is low to morderate even for top sellers -> capital tied up in excess stock
 
 The original datasets can be downloaded [here](https://www.kaggle.com/datasets/bhanupratapbiswas/inventory-analysis-case-study)
+
 See the [full report](https://github.com/dukenguyen203-art/Liquor-Inventory-Analysis---A-Case-Study/blob/main/Liquor%20Inventory%20Analysis%20-%20A%20Case%20Study.ipynb) for detailed methodology and results.
+
 Download the [Power BI dashboard](https://github.com/dukenguyen203-art/Liquor-Inventory-Analysis---A-Case-Study/tree/main/Dashboard) for interactive exploration
 ## 2. Project Background
 The company operates multiple stores with a broad beverage portfolio bu struggles with stockouts, overstocking, and high inventory costs. This project analyzes historical transactions to improve inventory planning through:
