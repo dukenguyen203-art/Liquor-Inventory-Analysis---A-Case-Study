@@ -2,14 +2,32 @@
 ## 1. Executive Summary
 This project evaluates inventory performance for a liquor retail & distribution business using five operational datasets (sales, purchases, invoices, beginning and ending inventory). The analysis identifies revenue concentration, supplier reliability, and inventory misalignment, leveraging Python-based EDA and Power BI dashboarding.
 
-**Key insights:**
+### Key insights:
 * A small set of A-category brands and stores drive most revenue
 * Lead time is stable for top vendors but volatile for others.
 * ~ 60% of SKUs are in surplus, ~30% in shortage, and only ~11.5% optimal
 * Turnover is low to morderate even for top sellers -> capital tied up in excess stock
 * Dataset: [Kaggle - Inventory Analysis Case Study](https://www.kaggle.com/datasets/bhanupratapbiswas/inventory-analysis-case-study)
-* Full report (EDA notebook): [Jupyter Notebook](https://github.com/dukenguyen203-art/Liquor-Inventory-Analysis---A-Case-Study/blob/main/Liquor%20Inventory%20Analysis%20-%20A%20Case%20Study.ipynb) for detailed methodology and results.
-* Interactive dashboard: [Power BI (repo folder)](https://github.com/dukenguyen203-art/Liquor-Inventory-Analysis---A-Case-Study/tree/main/Dashboard) for interactive exploration
+* Full report (EDA notebook): [Jupyter Notebook](https://github.com/dukenguyen203-art/Liquor-Inventory-Analysis---A-Case-Study/blob/main/Liquor%20Inventory%20Analysis%20-%20A%20Case%20Study.ipynb).
+* Interactive dashboard: [Power BI (repo folder)](https://github.com/dukenguyen203-art/Liquor-Inventory-Analysis---A-Case-Study/tree/main/Dashboard).
+
+### At a glance:
+#### KPI Dashboard
+<img width="2320" height="1349" alt="image" src="https://github.com/user-attachments/assets/fe23df5b-d047-4e60-a1df-d9277f81e8fc" />
+
+#### ABC by Store & Brand
+**By Store**
+<img width="1695" height="694" alt="image" src="https://github.com/user-attachments/assets/42684bec-1b46-4e28-ad18-b67800c9cdd9" />
+
+**By Brand**
+<img width="1694" height="689" alt="image" src="https://github.com/user-attachments/assets/d462f7c5-6629-4947-9171-c08eba8daf6e" />
+
+#### Vendor Lead Time Distribution
+<img width="1704" height="691" alt="image" src="https://github.com/user-attachments/assets/9beb0f26-0dc4-4c68-988b-82447f5dcf74" />
+
+#### Inventory Status Breakdown
+<img width="1704" height="693" alt="image" src="https://github.com/user-attachments/assets/2ac12f30-8c77-4efc-911e-6b0a9dda2940" />
+
 ## 2. Project Background
 The company operates multiple stores with a broad beverage portfolio but struggles with stockouts, overstocking, and high inventory costs. This project analyzes historical transactions to improve inventory planning via:
 * ABC classificaltion of products and stores.
