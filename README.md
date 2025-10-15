@@ -70,34 +70,3 @@ Use the [Power BI dashboard](https://github.com/dukenguyen203-art/Liquor-Invento
 Duke Nguyen
 * Github: @dukenguyen203-art
 * LinkedIn: [Duke Nguyen](https://www.linkedin.com/in/duke-n-nguyen/)
-
-
-
-
-
-
-
-## 1. Project Background
-
-This project analyzes inventory performance for a liquor retail and distribution business managing a diverse portfolio of alcoholic beverages across multiple store locations. The company faces recurring challenges with stockouts, overstocking, and high inventory carrying costs, impacting both revenue generation and working capital efficiency.
-
-Using five core datasets (sales, purchases, invoices, beginning and ending inventory), the analysis identifies critical patterns in demand concentration, supplier reliability, and inventory alignment with actual sales. By applying ABC classification, lead time analysis, and inventory KPIs (turnover, Days on Hand, safety stock, reorder point, target level), the project uncovers structural inefficiencies and actionable improvement opportunities.
-
-Insights and recommendations are provided in four key areas:
-
-ABC Classification: Identify high-value items, stores, and vendors that drive the majority of revenue.
-
-Supplier Performance: Evaluate lead time reliability and consistency.
-
-Inventory Efficiency: Diagnose surplus vs. shortage patterns, turnover rates, and stock levels.
-
-Strategic Planning: Recommend data-driven actions to optimize inventory and procurement strategy.
-
-So what:
-By targeting A-class items and reliable suppliers, rebalancing stock levels, and tightening planning processes, the business can unlock working capital, reduce carrying costs, and improve service levels, enabling more profitable and resilient operations.
-
-* The original datasets can be downloaded here.
-* The structured EDA Jupyter Notebook can be downloaded here.
-* An interactive PowerBI dashboard can be downloaded here.
-
-## Data Structure and Initial Check
