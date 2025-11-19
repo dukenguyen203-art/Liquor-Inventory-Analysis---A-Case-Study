@@ -114,7 +114,7 @@ Limitation
 * Rebalance inventory across stores before reordering to reduce excess and address shortages.
 * EDA notebook (methods, visuals, metric formulas): [Link](https://github.com/dukenguyen203-art/Liquor-Inventory-Analysis---A-Case-Study/blob/main/Liquor%20Inventory%20Analysis%20-%20A%20Case%20Study.ipynb)
 * Power BI dashboard (interactive exploration): [Link](https://github.com/dukenguyen203-art/Liquor-Inventory-Analysis---A-Case-Study/tree/main/Dashboard)
-## 7. Author
+## Author
 Duke Nguyen
 * Github: [@dukenguyen203-art](https://github.com/dukenguyen203-art)
 * LinkedIn: [Duke Nguyen](https://www.linkedin.com/in/duke-n-nguyen/)
