@@ -1,4 +1,4 @@
-# Liquor-Inventory-Analysis---A-Case-Study
+# Supply Chain Performance Analysis and Analytics
 ## 1. Executive Summary
 This project analyzes the inventory performance of a liquor retail and distribution company using five operational datasets — Sales, Purchases, Invoices, Beginning Inventory, and Ending Inventory — to evaluate revenue concentration, supplier reliability, and stock efficiency.
 
